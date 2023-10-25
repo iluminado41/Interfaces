@@ -1,0 +1,9 @@
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Datos\bin\Debug\Capa Entidad.dll
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Datos\bin\Debug\Capa Entidad.pdb
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Datos\obj\Debug\Capa Datos.csproj.AssemblyReference.cache
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Datos\obj\Debug\Capa Datos.csproj.CoreCompileInputs.cache
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Datos\obj\Debug\Capa Datos.csproj.CopyComplete
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Datos\obj\Debug\Capa Datos.pdb

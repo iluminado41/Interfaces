@@ -1,0 +1,18 @@
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\bin\Debug\VentaDB6042sem10.exe.config
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\bin\Debug\VentaDB6042sem10.exe
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\bin\Debug\VentaDB6042sem10.pdb
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\bin\Debug\Capa Datos.dll
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\bin\Debug\Capa Entidad.dll
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\bin\Debug\Capa Logica.dll
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\bin\Debug\Capa Datos.pdb
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\bin\Debug\Capa Entidad.pdb
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\bin\Debug\Capa Logica.pdb
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\obj\Debug\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\obj\Debug\Capa Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\obj\Debug\VentaDB6042sem10.FormMantenedorCliente.resources
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\obj\Debug\VentaDB6042sem10.Properties.Resources.resources
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\obj\Debug\Capa Presentacion.csproj.GenerateResource.cache
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\obj\Debug\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\obj\Debug\Capa Presentacion.csproj.CopyComplete
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\obj\Debug\VentaDB6042sem10.exe
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\VentaDB6042sem10\obj\Debug\VentaDB6042sem10.pdb

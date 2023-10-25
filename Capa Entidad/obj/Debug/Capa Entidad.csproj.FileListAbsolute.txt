@@ -1,0 +1,6 @@
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Entidad\bin\Debug\Capa Entidad.dll
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Entidad\bin\Debug\Capa Entidad.pdb
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Entidad\obj\Debug\Capa Entidad.csproj.AssemblyReference.cache
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Entidad\obj\Debug\Capa Entidad.csproj.CoreCompileInputs.cache
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Entidad\obj\Debug\Capa Entidad.dll
+C:\Joaquin\REY\UPN\CICLO 8\MOANSO\SEM 10\Capa Entidad\obj\Debug\Capa Entidad.pdb
